@@ -17,5 +17,6 @@ class Armstrong
         else
         System.out.println("Not armstrong");
      }
+    System.out.println("END OF PROGRAM"); // NEW SOP ADDED 
 }    
     
